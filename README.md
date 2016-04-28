@@ -1,1 +1,1 @@
-# snooglebert06.github.io
+# gh-pages

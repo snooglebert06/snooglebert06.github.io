@@ -1,0 +1,22 @@
+img{
+	width:33%;
+	border: 1px dashed red;
+}
+
+ul{ 
+margin:33px;
+ }
+
+ #menu{
+ 	position:fixed;
+
+ }
+ #body{
+ 	margin-left:200px;
+ }
+
+ a:hover{
+color:red;
+ }
+
+ 
